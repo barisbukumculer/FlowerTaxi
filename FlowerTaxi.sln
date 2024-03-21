@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerTaxi", "FlowerTaxi\FlowerTaxi.csproj", "{4F424E9E-4AB9-4D7D-85F9-AE217885F417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F424E9E-4AB9-4D7D-85F9-AE217885F417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F424E9E-4AB9-4D7D-85F9-AE217885F417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F424E9E-4AB9-4D7D-85F9-AE217885F417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F424E9E-4AB9-4D7D-85F9-AE217885F417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB46FDE8-EAA2-44BB-A800-BE0E99D38AF4}
+	EndGlobalSection
+EndGlobal
